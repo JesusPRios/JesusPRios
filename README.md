@@ -29,7 +29,7 @@
       <span>📝 I enjoy web development and love designing web prototypes with <strong>Figma.</strong></span>
     </li>
     <li style="margin-bottom: 10px;">
-      <span>📫 Feel free to contact me at <a href="mailto:meduardo1912@gmail.com">meduardo1912@gmail.com</a>.</span>
+      <span>📫 Feel free to contact me at <a href="mailto:mjesusprimera@gmail.co">mjesusprimera@gmail.com</a>.</span>
     </li>
     <li style="margin-bottom: 10px;">
       <span>🧠 I am always open to new learning opportunities.</span>
@@ -42,7 +42,7 @@
   <h2 style="margin-bottom: 50px;">Technologies That I Know 👨🏻‍💻</h2>
   <p align="center" style="margin-bottom: 50px;">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,css,discord,figma,github,html,js,mongodb,mysql,postman,py,vscode&perline=14" alt="Skills Icons" />
+      <img src="https://skillicons.dev/icons?i=git,css,discord,figma,github,html,js,mongodb,mysql,postman,react,py,vscode&perline=14" alt="Skills Icons" />
     </a>
   </p>
 </div>
