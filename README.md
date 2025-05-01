@@ -3,7 +3,7 @@
 
 <!-- Title Section -->
 <div align="center" style="margin-bottom: 50px;">
-  <h1>Hi 👋, I'm Miguel Primera</h1>
+  <h1>Hi 👋, I'm Miguel Primera Ríos</h1>
 </div>
 
 <!-- Snake Animation -->
@@ -13,18 +13,12 @@
 
 <!-- Motto Section -->
 <div align="center" style="margin-bottom: 50px; margin-top: 150px;">
-  <h2>The desire to learn must never cease</h2>
+  <h2>I love to learn every day</h2>
 </div>
 
 <!-- Intro Section -->
 <div style="margin-bottom: 50px;">
   <ul style="list-style: none; padding: 0; text-align: left; display: inline-block;">
-    <li style="margin-bottom: 10px;">
-      <span>🔭 I am currently learning <strong>React, Node.js, and Tailwind.</strong></span>
-    </li>
-    <li style="margin-bottom: 10px;">
-      <span>☁️ I have a great interest in cloud computing and aim to learn <strong>AWS.</strong></span>
-    </li>
     <li style="margin-bottom: 10px;">
       <span>📝 I enjoy web development and love designing web prototypes with <strong>Figma.</strong></span>
     </li>
@@ -42,7 +36,7 @@
   <h2 style="margin-bottom: 50px;">Technologies That I Know 👨🏻‍💻</h2>
   <p align="center" style="margin-bottom: 50px;">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,css,discord,figma,github,html,js,mongodb,mysql,postman,react,py,vscode&perline=14" alt="Skills Icons" />
+      <img src="https://skillicons.dev/icons?i=git,css,discord,figma,github,html,js,mongodb,typescript,javascript,mysql,tailwind,postman,react,py,vscode&perline=14" alt="Skills Icons" />
     </a>
   </p>
 </div>
