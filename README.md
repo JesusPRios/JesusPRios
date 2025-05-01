@@ -20,7 +20,7 @@
 <div style="margin-bottom: 50px;">
   <ul style="list-style: none; padding: 0; text-align: left; display: inline-block;">
     <li style="margin-bottom: 10px;">
-      <span>📝 I enjoy web development and love designing web prototypes with <strong>Figma.</strong></span>
+      <span>📝 I enjoy web development</span>
     </li>
     <li style="margin-bottom: 10px;">
       <span>📫 Feel free to contact me at <a href="mailto:mjesusprimera@gmail.co">mjesusprimera@gmail.com</a>.</span>
@@ -36,7 +36,7 @@
   <h2 style="margin-bottom: 50px;">Technologies That I Know 👨🏻‍💻</h2>
   <p align="center" style="margin-bottom: 50px;">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,css,discord,figma,github,html,js,mongodb,typescript,javascript,mysql,tailwind,postman,react,py,vscode&perline=14" alt="Skills Icons" />
+      <img src="https://skillicons.dev/icons?i=git,css,github,html,js,mongodb,typescript,mysql,tailwind,postman,react,vscode&perline=14" alt="Skills Icons" />
     </a>
   </p>
 </div>
