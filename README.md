@@ -36,7 +36,7 @@
   <h2 style="margin-bottom: 50px;">Technologies That I Know 👨🏻‍💻</h2>
   <p align="center" style="margin-bottom: 50px;">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,css,github,html,js,mongodb,typescript,mysql,tailwind,postman,react,vscode&perline=14" alt="Skills Icons" />
+      <img src="https://skillicons.dev/icons?i=git,css,github,html,js,mongodb,typescript,mysql,tailwind,react,vscode&perline=14" alt="Skills Icons" />
     </a>
   </p>
 </div>
